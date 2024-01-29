@@ -73,8 +73,6 @@
     <a href="https://www.mysql.com/" target="_blank"> 
      <img alt="MySql" src="https://img.shields.io/badge/mysql-%23430098.svg?style=for-the-badge&logo=mysql&logoColor=white">
    </a> 
-
- 
   </p>
 
 > ### Design and Editing
@@ -84,13 +82,6 @@
     <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> 
      <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
    </a> 
-
-    &emsp;
-   
-      <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-     <img alt="Adobe Lightroom" src="https://img.shields.io/badge/adobe%20Lightroom-%2331A8FF.svg?style=for-the-badge&logo=adobelightroom&logoColor=white">
-  </a>
-
  </p>
 
 > ### Software & Tools
